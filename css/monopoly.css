@@ -214,6 +214,11 @@ body{
     background-size:contain;
     background-position:center;
 }
+.player1 #player1{
+    background-image:url(../images/happy_face.png);
+    background-size:contain;
+    background-position:center;
+}
 
 .dice-dot{
     display: inline-block;
