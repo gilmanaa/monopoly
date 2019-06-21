@@ -209,7 +209,7 @@ body{
     background-color:white;
 }
 
-.in-jail .player{
+.jailed{
     background-image:url(../images/sad_face.png);
     background-size:contain;
     background-position:center;
