@@ -209,6 +209,12 @@ body{
     background-color:white;
 }
 
+.in-jail .player{
+    background-image:url(../images/sad_face.png);
+    background-size:contain;
+    background-position:center;
+}
+
 .dice-dot{
     display: inline-block;
     width: 25%;
