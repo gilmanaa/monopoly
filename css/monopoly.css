@@ -214,6 +214,9 @@ body{
     background-size:contain;
     background-position:center;
 }
+.broke{
+    display: none;
+}
 .player1 #player1{
     background-image:url(../images/happy_face.png);
     background-size:contain;
